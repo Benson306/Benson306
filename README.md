@@ -3,16 +3,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benson306&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 "myProfile": {<br />
-    "Name":"Benson Kimtai Ndiwa",<br />
-    "Certifications":["Bachelors in Information Technology","Junior Penetration Tester","AWS Cloud Practitioner"],<br />
-    "techStack":{<br />
-            "Languages":["PHP","Javascript,"Python","Dart and Flutter"],<br />
-            "Frontend":["HTML","CSS","React.JS"],<br />
-            "Backend":["PHP","Node.JS"],<br />
-            "Mobile":["Dart","Flutter"],<br />
-            "Databases":["MySQL","MongoDB","Firebase"]<br />
-        },<br />
-    "softSkills":["Professional","Reliable","Time concious"]<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"Name":"Benson Kimtai Ndiwa",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"Certifications":["Bachelors in Information Technology","Junior Penetration Tester","AWS Cloud Practitioner"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"techStack":{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Languages":["PHP","Javascript,"Python","Dart and Flutter"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Frontend":["HTML","CSS","React.JS"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Backend":["PHP","Node.JS"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mobile":["Dart","Flutter"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"Databases":["MySQL","MongoDB","Firebase"]<br />
+&nbsp;&nbsp;&nbsp;&nbsp;},<br />
+&nbsp;&nbsp;&nbsp;&nbsp;"softSkills":["Professional","Reliable","Time concious"]<br />
 }
 <br />
 <div>
