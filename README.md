@@ -1,20 +1,20 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benson306&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benson306&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-"myProfile": {
-    "Name":"Benson Kimtai Ndiwa",
-    "Certifications":["Bachelors in Information Technology","Junior Penetration Tester","AWS Cloud Practitioner"],
-    "techStack":{
-            "Languages":["PHP","Javascript,"Python","Dart and Flutter"],
-            "Frontend":["HTML","CSS","React.JS"],
-            "Backend":["PHP","Node.JS"],
-            "Mobile":["Dart","Flutter"],
-            "Databases":["MySQL","MongoDB","Firebase"]
-        },
-    "softSkills":["Professional","Reliable","Time concious"]
+<br />
+"myProfile": {<br />
+    "Name":"Benson Kimtai Ndiwa",<br />
+    "Certifications":["Bachelors in Information Technology","Junior Penetration Tester","AWS Cloud Practitioner"],<br />
+    "techStack":{<br />
+            "Languages":["PHP","Javascript,"Python","Dart and Flutter"],<br />
+            "Frontend":["HTML","CSS","React.JS"],<br />
+            "Backend":["PHP","Node.JS"],<br />
+            "Mobile":["Dart","Flutter"],<br />
+            "Databases":["MySQL","MongoDB","Firebase"]<br />
+        },<br />
+    "softSkills":["Professional","Reliable","Time concious"]<br />
 }
-<br>
+<br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="70" height="70"/>&nbsp;
