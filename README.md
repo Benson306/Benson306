@@ -1,18 +1,19 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benson306&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benson306&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 "myProfile": {<br />
-&nbsp;&nbsp;&nbsp;&nbsp;"Name":"Benson Kimtai Ndiwa",<br />
-&nbsp;&nbsp;&nbsp;&nbsp;"Certifications":["Bachelors in Information Technology","Junior Penetration Tester","AWS Cloud Practitioner"],<br />
-&nbsp;&nbsp;&nbsp;&nbsp;"techStack":{<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Languages":["PHP","Javascript,"Python","Dart and Flutter"],<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Frontend":["HTML","CSS","React.JS"],<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Backend":["PHP","Node.JS"],<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Mobile":["Dart","Flutter"],<br />
-&nbsp;&nbsp;&nbsp;&nbsp;"Databases":["MySQL","MongoDB","Firebase"]<br />
-&nbsp;&nbsp;&nbsp;&nbsp;},<br />
-&nbsp;&nbsp;&nbsp;&nbsp;"softSkills":["Professional","Reliable","Time concious"]<br />
+&nbsp;&nbsp;&nbsp;&nbsp; "Name":"Benson Kimtai Ndiwa",<br />
+&nbsp;&nbsp;&nbsp;&nbsp; "Certifications":["Bachelors in Information Technology","Junior Penetration Tester","AWS Cloud Practitioner"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp; "techStack":{<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Languages":["PHP","Javascript,"Python","Dart and Flutter"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Frontend":["HTML","CSS","React.JS"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Backend":["PHP","Node.JS"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Mobile":["Dart","Flutter"],<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "Databases":["MySQL","MongoDB","Firebase"]<br />
+&nbsp;&nbsp;&nbsp;&nbsp; },<br />
+&nbsp;&nbsp;&nbsp;&nbsp; "softSkills":["Professional","Reliable","Time concious"]<br />
 }
 <br />
 <div>
